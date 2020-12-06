@@ -9,7 +9,3 @@ add(3,4)
 print('xx')
 
 print('yy')
-
-print('zz')
-
-print('gg')
